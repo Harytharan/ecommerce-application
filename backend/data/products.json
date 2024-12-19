@@ -1,4 +1,5 @@
-[{
+[
+  {
     "name": "OPPO F21s Pro 5G",
     "price": 245.67,
     "description": "OPPO F21s Pro 5G is a powerful device with a RAM extension feature, that offers brilliant operational speed to users.",
@@ -92,10 +93,123 @@
     "ratings": 3,
     "images": [
       {
-        "image": "/images/products/5.jpg"
+        "image": "/images/products/5.jpeg"
       }
     ],
     "category": "Sports",
     "seller": "Ebay",
     "stock": 6
-  }]
+  },
+  {
+    "name": "TP-Link Archer AX50 Wi-Fi 6 Router",
+    "price": 125.99,
+    "description": "TP-Link Archer AX50 offers next-gen Wi-Fi 6 with faster speeds, greater capacity, and reduced latency for seamless connectivity.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/8.jpg"
+      }
+    ],
+    "category": "Networking",
+    "seller": "Amazon",
+    "stock": 12
+  },
+  {
+    "name": "HP LaserJet Pro MFP M227fdw Printer",
+    "price": 320.75,
+    "description": "Compact all-in-one printer with wireless printing, high-speed performance, and energy-efficient design.",
+    "ratings": 4.2,
+    "images": [
+      {
+        "image": "/images/products/9.jpg"
+      }
+    ],
+    "category": "Printers",
+    "seller": "Best Buy",
+    "stock": 5
+  },
+  {
+    "name": "AMD Ryzen 7 5800X Processor",
+    "price": 400.25,
+    "description": "8-core, 16-thread processor designed for smooth gaming, streaming, and professional workloads.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/10.jpg"
+      }
+    ],
+    "category": "Computer Components",
+    "seller": "Newegg",
+    "stock": 8
+  },
+  {
+    "name": "NVIDIA GeForce RTX 3060 Graphics Card",
+    "price": 500.00,
+    "description": "NVIDIA GeForce RTX 3060 with advanced ray tracing and DLSS for ultimate gaming performance.",
+    "ratings": 4.6,
+    "images": [
+      {
+        "image": "/images/products/11.jpg"
+      }
+    ],
+    "category": "Computer Components",
+    "seller": "Ebay",
+    "stock": 6
+  },
+  {
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "price": 99.99,
+    "description": "Advanced ergonomic design with ultra-fast scrolling and customizable buttons for enhanced productivity.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/12.jpg"
+      }
+    ],
+    "category": "Accessories",
+    "seller": "Amazon",
+    "stock": 15
+  },
+  {
+    "name": "Samsung T7 Portable SSD 1TB",
+    "price": 150.00,
+    "description": "Compact, high-speed external SSD with USB 3.2 Gen2 interface for fast data transfer.",
+    "ratings": 4.9,
+    "images": [
+      {
+        "image": "/images/products/13.jpg"
+      }
+    ],
+    "category": "Storage",
+    "seller": "Samsung",
+    "stock": 10
+  },
+  {
+    "name": "Apple AirPods Pro (2nd Generation)",
+    "price": 250.99,
+    "description": "Active Noise Cancellation, Adaptive Transparency, and spatial audio for immersive listening experience.",
+    "ratings": 4.7,
+    "images": [
+      {
+        "image": "/images/products/14.jpg"
+      }
+    ],
+    "category": "Headphones",
+    "seller": "Apple Store",
+    "stock": 20
+  },
+  {
+    "name": "LG 27UL850-W 27-Inch 4K UHD Monitor",
+    "price": 499.99,
+    "description": "4K UHD IPS display with HDR10, FreeSync support, and USB-C connectivity for professional workflows.",
+    "ratings": 4.8,
+    "images": [
+      {
+        "image": "/images/products/15.jpg"
+      }
+    ],
+    "category": "Monitors",
+    "seller": "Amazon",
+    "stock": 7
+  }
+]

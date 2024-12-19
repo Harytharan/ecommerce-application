@@ -77,7 +77,7 @@ export default function Cart({ cartItems, setCartItems }) {
             amount: Number(cartItems.reduce((acc, item) => acc + item.product.price * item.qty, 0)).toFixed(2)
         };
 
-        // Send data to the backend API
+        //api call
         fetch(process.env.REACT_APP_API_URL + '/order', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },

@@ -50,7 +50,7 @@ export default function Register() {
             })
             .then((data) => {
                 toast.success('Registration successful!');
-                navigate('/login'); // Navigate to the login page after successful registration
+                navigate('/login'); // Navigate to login
             })
             .catch((error) => {
                 console.error('Error:', error);

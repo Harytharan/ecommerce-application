@@ -7,7 +7,7 @@ export default function Header({ cartItems }) {
             <div className="col-12 col-md-3">
                 <div className="navbar-brand">
                     <Link to="/">
-                        <h1 className="text-white">Amazon</h1>
+                        <h1 className="text-white">Gear UP</h1>
                     </Link>
                 </div>
             </div>
